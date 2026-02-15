@@ -16,3 +16,6 @@ Install-Module FP.SetWallpaper -AllowPrerelease
 1. wallpapers 내의 폴더를 하나 더 늘려주세요.
 2. 디렉토리 관련 코드 추가 해주세요.
 3. 모니터 배경화면 설정 코드 추가 해주세요.# WalCha
+
+---
+FP.SetWallpaper - https://github.com/federico-paolillo/set-wallpaper
